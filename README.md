@@ -38,7 +38,7 @@
 |FrontEnd|HTML5, JavaScript, CSS3, JQuery, Bootstrap|
 |BackEnd|Java(JDK 1.8), Servlet, JSP, Spring, MyBatis|
 |OS|Windows 10|
-|Libray&API|Apache Commons FileUpload, Imgscalr|
+|Library|Apache Commons FileUpload, Imgscalr|
 |IDE|Eclipse, VisualStudio, Spring Tool Suite|
 |Server|Tomcat(v8.5)|
 |Document|Google Drive, KakaoOven, ERDCloud, diagrams.net|
@@ -49,9 +49,9 @@
 ---
 ## 프로젝트 기능구현
 - 강수목
-  - 시스템분석, 마이페이지, 공지사항 관리, 뉴스 페이지, CSS 전반!
+  - 시스템분석, 마이페이지, 공지사항 관리, 뉴스 페이지, CSS 전반
 - 김도영
-  - 각종 API, 논리모델 구축, 채팅, 위젯, 관리자-어사이드, 1:1문의, 모의투자!
+  - 각종 API, 논리모델 구축, 채팅, 위젯, 관리자-어사이드, 1:1문의, 모의투자
 - 김연준
   - UI 설계, 공지사항, 커뮤니티-글목록/글상세/글등록, 부트스트랩, 각종 템플릿
 - 정재훈
@@ -240,8 +240,12 @@
 ![erd_board](https://user-images.githubusercontent.com/82936574/125958624-6300c3fa-1a4d-480f-98a1-d4cc5b9a5677.png)
 ![erd_investment](https://user-images.githubusercontent.com/82936574/125958638-54ebf113-c747-4b82-bcb9-8e816cb6034d.png)
 
+### 4. 요구사항 정의서 및 분석서
+![requirements_def](https://user-images.githubusercontent.com/82936574/126136679-44ad8a10-26eb-424c-8eba-046624f868d2.png) <br>
+[요구사항 정의서 전체보기](https://github.com/meta1mon/Blockchain-Trading-Simulator/files/6839726/_.docx)<br><br>
 
-
+![requirements_ana](https://user-images.githubusercontent.com/82936574/126138014-ee594f5e-8908-4fb5-8322-24f2c3b22663.png) <br>
+[요구사항 분석서 전체보기](https://github.com/meta1mon/Blockchain-Trading-Simulator/files/6839728/_.docx)
 
 
 
